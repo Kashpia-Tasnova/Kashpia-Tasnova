@@ -1,9 +1,9 @@
 # Hi 👋, I'm Kashpia Tasnova 
 ### 
 🎓 Computer Science & Engineering Student | 💻 Web Developer | 🤖 Machine Learning Enthusiast 
-- 🌱 Currently learning **PHP, Laravel, Machine Learning, Deep Learning, and NLP**
-- 💻 Interested in **Web Development, Artificial Intelligence, and Data Science**
-- 📫 Reach me at **kashpiatasnova@gmail.com**
+- Currently learning **PHP, Laravel, Machine Learning, Deep Learning, and NLP**
+- Interested in **Web Development, Artificial Intelligence, and Data Science**
+- Reach me at **kashpiatasnova@gmail.com**
 ---
 ####  About Me
 I’m a passionate **Computer Science & Engineering student** interested in **Web Development, Machine Learning, and Artificial Intelligence**.
