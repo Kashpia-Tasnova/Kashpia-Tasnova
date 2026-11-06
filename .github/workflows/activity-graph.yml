@@ -1,30 +1,34 @@
-name: Update Contribution Activity
+
+name: Update Contribution Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  activity:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Generate Activity Graph
+      - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Kashpia-Tasnova
 
       - name: Commit generated graph
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          git diff --cached --quiet || git commit -m "Update contribution activity graph"
-          git push
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Update contribution activity graph"
+            git push
+          fi
