@@ -66,8 +66,13 @@ I enjoy developing modern, responsive, and user-friendly web applications and ex
 
 ## 📈 Contribution Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
+</p>
 
 ---
 
