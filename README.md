@@ -54,20 +54,14 @@ I enjoy developing modern, responsive, and user-friendly web applications and ex
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashpia-Tasnova&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashpia-Tasnova&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kashpia-Tasnova&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashpia-Tasnova&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
