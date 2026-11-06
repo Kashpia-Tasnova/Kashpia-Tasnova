@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="./banner.png" width="100%" alt="Kashpia Tasnova - GitHub Profile Banner" />
 </p>
 
@@ -63,6 +63,11 @@ I enjoy developing modern, responsive, and user-friendly web applications and ex
 <p align="center">
   <img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak" />
 </p>
+
+## 📈 Contribution Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
